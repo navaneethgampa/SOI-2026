@@ -1,8 +1,8 @@
 # H1
-##H2
-###H3
-######H6
+## H2
+### H3
+###### H6
 
-*Bold*
-**Italic**
+*italic*
+**bold**
 ***Bold italic ***
