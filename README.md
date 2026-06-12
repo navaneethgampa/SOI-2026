@@ -5,4 +5,4 @@
 
 *italic*
 **bold**
-***Bold italic ***
+***Bold italic***
