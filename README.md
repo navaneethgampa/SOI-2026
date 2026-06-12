@@ -4,5 +4,9 @@
 ###### H6
 
 *italic*
+
 **bold**
+
 ***Bold italic***
+
+(a+b)<sup>2</sup>
